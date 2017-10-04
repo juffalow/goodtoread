@@ -19,3 +19,4 @@ There are lot of articles on the Internet that help you to move on and get bette
 
 * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3/)
