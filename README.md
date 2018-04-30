@@ -14,6 +14,7 @@ There are lot of articles on the Internet that help you to move on and get bette
 * [Be Kind](https://www.briangilham.com/be-kind)
 * [The Obligation of the Programmer](http://blog.cleancoder.com/uncle-bob/2014/11/15/WeRuleTheWorld.html)
 * [The Programmer's Oath](http://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
+* [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
 ## GIT
 
